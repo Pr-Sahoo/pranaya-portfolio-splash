@@ -32,7 +32,7 @@ const Projects: React.FC = () => {
     {
       title: "MyNotebook",
       description: "A Personal note taking application it will provide features like creation of personal notes with title, description with update and delete option and save the note at cloud",
-      technologies: ["reactJs", "express js", "MongoDb", "Bootstrap", "Nodejs",],
+      technologies: ["reactJs", "express js", "MongoDb", "Bootstrap", "Nodejs"],
       githubUrl: "https://github.com/Pr-Sahoo/MynoteBook",
       liveUrl: "https://yourproject.vercel.app",
       imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=MyNotebook+App",
