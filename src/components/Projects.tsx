@@ -37,6 +37,14 @@ const Projects: React.FC = () => {
       liveUrl: "https://yourproject.vercel.app",
       imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=MyNotebook+App",
     },
+    {
+      title: "News Pulse",
+      description: "A Api based news app made with reactJs it provide all the current trending news by  fetching api and shows it",
+      technologies: ["reactJs","Bootstrap", "javascript"],
+      githubUrl: "https://github.com/Pr-Sahoo/NewsPulse",
+      liveUrl: "https://news-pulse-plum.vercel.app/",
+      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=MyNotebook+App",
+    },
   ];
 
   return (
