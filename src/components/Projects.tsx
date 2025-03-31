@@ -14,27 +14,28 @@ interface Project {
 const Projects: React.FC = () => {
   const projects: Project[] = [
     {
-      title: "E-Commerce Platform",
-      description: "A full-featured e-commerce platform with product listings, cart functionality, and user authentication.",
-      technologies: ["React", "Node.js", "MongoDB", "Redux"],
-      githubUrl: "https://github.com/Pr-Sahoo",
-      liveUrl: "https://yourproject.vercel.app",
-      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=E-Commerce+App",
+      title: "Real Time Chatting App",
+      description: "A full-featured Chatting application with real time updates and can do Real time chatting in group or in private mode",
+      technologies: ["React", "Tailwind css", "Firebase", "Firestore"],
+      githubUrl: "https://github.com/Pr-Sahoo/LinkUp",
+      liveUrl: "chat-sphere-kappa.vercel.app",
+      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=Realtime-chatting+App",
     },
     {
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates and team workspaces.",
-      technologies: ["React", "Firebase", "Tailwind CSS"],
-      githubUrl: "https://github.com/Pr-Sahoo",
+      title: "E-Commerce App",
+      description: "A full-featured online shopping application with product creation, updation, delete and management feature with order handling and order creation feature make it seamless shopping site",
+      technologies: ["React", "Bootstrap css", "express js", "MongoDb", "MongoDb Atlas", "Node js"],
+      githubUrl: "https://github.com/Pr-Sahoo/quickcart",
+      liveUrl: "https://quickcart-flax.vercel.app/"
       imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=Task+App",
     },
     {
-      title: "Weather Dashboard",
-      description: "A weather application that provides current and forecasted weather information for any location.",
-      technologies: ["JavaScript", "API Integration", "CSS"],
-      githubUrl: "https://github.com/Pr-Sahoo",
+      title: "MyNotebook",
+      description: "A Personal note taking application it will provide features like creation of personal notes with title, description with update and delete option and save the note at cloud",
+      technologies: ["reactJs", "express js", "MongoDb", "Bootstrap", "Nodejs",],
+      githubUrl: "https://github.com/Pr-Sahoo/MynoteBook",
       liveUrl: "https://yourproject.vercel.app",
-      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=Weather+App",
+      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=MyNotebook+App",
     },
   ];
 
