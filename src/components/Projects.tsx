@@ -18,7 +18,7 @@ const Projects: React.FC = () => {
       description: "A full-featured Chatting application with real time updates and can do Real time chatting in group or in private mode",
       technologies: ["React", "Tailwind css", "Firebase", "Firestore"],
       githubUrl: "https://github.com/Pr-Sahoo/LinkUp",
-      liveUrl: "chat-sphere-kappa.vercel.app",
+      liveUrl: "https://chat-sphere-kappa.vercel.app",
       imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=Realtime-chatting+App",
     },
     {
