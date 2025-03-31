@@ -26,7 +26,7 @@ const Projects: React.FC = () => {
       description: "A full-featured online shopping application with product creation, updation, delete and management feature with order handling and order creation feature make it seamless shopping site",
       technologies: ["React", "Bootstrap css", "express js", "MongoDb", "MongoDb Atlas", "Node js"],
       githubUrl: "https://github.com/Pr-Sahoo/quickcart",
-      liveUrl: "https://quickcart-flax.vercel.app/"
+      liveUrl: "https://quickcart-flax.vercel.app/",
       imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=Task+App",
     },
     {
