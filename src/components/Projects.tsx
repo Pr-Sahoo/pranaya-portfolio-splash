@@ -27,7 +27,7 @@ const Projects: React.FC = () => {
       technologies: ["React", "Bootstrap css", "express js", "MongoDb", "MongoDb Atlas", "Node js"],
       githubUrl: "https://github.com/Pr-Sahoo/quickcart",
       liveUrl: "https://quickcart-flax.vercel.app/",
-      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=Task+App",
+      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=E-commerce+App",
     },
     {
       title: "MyNotebook",
@@ -43,7 +43,7 @@ const Projects: React.FC = () => {
       technologies: ["reactJs","Bootstrap", "javascript"],
       githubUrl: "https://github.com/Pr-Sahoo/NewsPulse",
       liveUrl: "https://news-pulse-plum.vercel.app/",
-      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=MyNotebook+App",
+      imageUrl: "https://placehold.co/600x400/1DB954/FFFFFF/png?text=News-Pulse+App",
     },
   ];
 
